@@ -1,4 +1,4 @@
-# Two-layer-Neural-Network
+# Two-layer-Neural-Network with multiple activation functions
 
 
 #### Description -
